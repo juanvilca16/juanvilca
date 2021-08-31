@@ -1,0 +1,39 @@
+@font-face{
+	font-family: "fuente1";
+	src: url("../fondos/Baby Queen.ttf");
+}
+
+
+.cuadro{
+	background-color: #B1F23F;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-family: "fuente1";
+	font-size: "fuente1";
+}
+.centrado{
+	margin-left: auto;
+	margin-right: auto;
+}
+.juan{
+	background-color: #F29B3F;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.jesus{
+	background-color: #6082F9;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.vilca{
+	background-color: #AEF4F0;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.titulo{
+	font-size: 40px;
+}
